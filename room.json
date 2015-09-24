@@ -1,0 +1,32 @@
+{
+	"room" : [
+		{
+			"roomNr" : "A01",
+			"capacity" : 20
+		},
+		{
+			"roomNr" : "A05b",
+			"capacity" : 32
+		},
+		{
+			"roomNr" : "B23",
+			"capacity" : 50
+		},
+		{
+			"roomNr" : "B26",
+			"capacity" : 20
+		},
+		{
+			"roomNr" : "C23",
+			"capacity" : 50
+		},
+		{
+			"roomNr" : "C26",
+			"capacity" : 20
+		},
+		{
+			"roomNr" : "K05",
+			"capacity" : 43
+		}
+	]
+}
